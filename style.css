@@ -1,11 +1,11 @@
 .alfa-font {
   font-family: 'Alfa Slab One', cursive;
   font-size: 80px;
-  color: #c4450e;
+  color: #b0a103;
 }
 
 .roboto-font {
   font-family: 'Roboto', sans-serif;
-  font-size: 24px;
-  color: rgb(27, 70, 6); /* or any visible color */
+  font-size: 24px;  
+  color: rgb(232, 135, 9); /* or any visible color */
 }
