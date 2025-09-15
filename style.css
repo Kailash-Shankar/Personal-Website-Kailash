@@ -4,14 +4,48 @@
   color: #b0a103;
 }
 
+.alfa-font2 {
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 80px;
+  color: #03b0a7;
+}
+
 .roboto-font {
   font-family: 'Roboto', sans-serif;
   font-size: 24px;  
   color: rgb(232, 135, 9); /* or any visible color */
 }
 
-.dalfa-font {
-  font-family: 'Alfa Slab One', sans-serif;
-  font-size: 24px;
-  color: #000000;
+.roboto-flex {
+  font-family: "Roboto Flex", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "wdth" 100,
+    "GRAD" 0,
+    "XOPQ" 96,
+    "XTRA" 468,
+    "YOPQ" 79,
+    "YTAS" 750,
+    "YTDE" -203,
+    "YTFI" 738,
+    "YTLC" 514,
+    "YTUC" 712;
 }
+
+
+.sigmar-font {
+  font-family: 'Sigmar One', cursive;
+  font-size: 32px;  
+  color: rgb(232, 135, 9); /* or any visible color */
+}
+
+.ultra-regular {
+  font-family: "Ultra", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+
